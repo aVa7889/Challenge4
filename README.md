@@ -5,7 +5,7 @@ please find the file named "module_4_challenge.ipynb" for the output
 # Summary of the challenge 4
 
 I pulled the top 5 clients of jobs, and the industry areas are broad. They are from the Production designer, chief of staff, osteopath, dietitian, and pension scheme manager.
-It is interesting to know that the top 5 clients are all across the board.
+It is interesting to know that the top 5 clients are all across the board.  please see "module_4_challenge.ipynb' the output[28].
 
 	client_number	Quantity	Shipping_Price	Total_Price	Cost	Profit	client_id	job
 0	33615	64313	$1.83M	$8.38M	$6.18M	$2.20M	33615	'Production designer, theatre/television/film'
